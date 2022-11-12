@@ -24,7 +24,6 @@ const Home = () => {
         <Carousel
           autoPlay
           infiniteLoop
-          interval={2000}
           showStatus={false}
           showThumbs={false}
           showArrows={false}
